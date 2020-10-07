@@ -3,7 +3,7 @@ Hi, I am 12 years old.
 
 ### I am currently working on?
  - I am working on a application called the python debug kit with vue.js
-### Take a look at my blog [blog]
+### Take a look at my [blog]
 
 
 
