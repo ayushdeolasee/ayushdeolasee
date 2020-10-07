@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there I am Pypdeveloper
+Hi, I am 12 years old.
+
+### I am currently working on?
+ - I am working on a application called the python debug kit with vue.js
+
+
 
 <!--
 **pypdeveloper/pypdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
