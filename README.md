@@ -3,9 +3,11 @@ Hi, I am 12 years old.
 
 ### I am currently working on?
  - I am working on a application called the python debug kit with vue.js
+### Take a look at my blog [blog]
 
 
 
+[blog]: https://github.com/pypdeveloper
 <!--
 **pypdeveloper/pypdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
