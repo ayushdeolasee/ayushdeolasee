@@ -1,8 +1,6 @@
 ## Hi there I am Pypdeveloper 👋🏼
 Hi, I am 12 years old.
 
-### I am currently working on?
- - I am working on a application called the python debug kit with vue.js 💻
 
 ### Take a look at my [blog]
 My blog is about all kinds of things in coding, Python to diffrent coding tricks.
