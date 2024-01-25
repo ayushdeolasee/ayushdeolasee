@@ -1,18 +1,16 @@
 ## Hi there I am Pypdeveloper 👋🏼
-Hi, I am 14 years old.
+Hi, I am 15 years old.
 
 
 ### Take a look at my [blog]
 My blog is about all kinds of things in coding and many more things.
 
 ## What I am learning right now
-- Kubernetes and Docker
-- Ansible
-- Jenkins
-- Terraform
-- Learning more about Rust
-- Networking
-- Proxmox
+- Pytorch
+- Machine Learning
+- CNN
+- Transformer Models
+- Opensource
 
 
 
