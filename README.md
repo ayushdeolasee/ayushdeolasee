@@ -22,7 +22,7 @@ I'm a student with a passion for all things tech, especially diving deep into th
 
 ### 📝 Wanna know what I'm thinking?
 
-Check out my blog 👉 dev.to/pypdeveloper
+Check out my blog 👉 [dev.to/pypdeveloper](dev.to/pypdeveloper)
 
 ### 💡 Always Happy to Connect!
 
