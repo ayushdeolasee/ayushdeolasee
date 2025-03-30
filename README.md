@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Ayush]!
+# 👋 Hey there, I'm Ayush!
 
 ## 🚀 Student | Geek | Coder
 
